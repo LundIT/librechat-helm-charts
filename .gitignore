@@ -7,3 +7,6 @@ __snapshot__/
 
 # Docs
 _site/
+
+secrets.yaml
+charts/librechat/Chart.lock
